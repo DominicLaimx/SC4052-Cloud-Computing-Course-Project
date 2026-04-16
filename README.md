@@ -10,8 +10,23 @@ self-refinement.
 https://nemobot-neue-experiment.vercel.app/playground/73
 
 ## Video Demo
-[![Watch the Demo](https://img.youtube.com/vi/8OeYULr9Ep8/maxresdefault.jpg)](https://youtu.be/8OeYULr9Ep8)
-[![Watch the Demo!](https://img.youtube.com/vi/XzthE86HIdE/maxresdefault.jpg)](https://youtu.be/XzthE86HIdE)
+<div align="center">
+  <a href="https://youtu.be/8OeYULr9Ep8">
+    <img src="https://img.youtube.com/vi/8OeYULr9Ep8/maxresdefault.jpg" alt="Watch Nemobot Demo" style="width:100%; max-width:600px; border-radius: 10px;">
+    <br>
+    <b>▶️ Click to Watch Demo!</b>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://youtu.be/XzthE86HIdE">
+    <img src="https://img.youtube.com/vi/XzthE86HIdE/maxresdefault.jpg" alt="Watch Tech Stack Demo" style="width:100%; max-width:600px; border-radius: 10px;">
+    <br>
+    <b>▶️ Click to Watch Demo!</b>
+  </a>
+</div>
 
 ## Overview
 
