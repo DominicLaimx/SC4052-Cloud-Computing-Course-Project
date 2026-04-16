@@ -15,7 +15,7 @@ https://nemobot-neue-experiment.vercel.app/playground/73
 <div align="center">
   <a href="https://youtu.be/XzthE86HIdE">
     <b>▶️ Click to Watch Demo!</b>
-    <img src="https://img.youtube.com/vi/XzthE86HIdE/maxresdefault.jpg" alt="Watch Tech Stack Demo" style="width:100%; max-width:600px; border-radius: 10px;">
+    <img src="https://img.youtube.com/vi/XzthE86HIdE/maxresdefault.jpg" alt="Watch Debate prep coach Demo" style="width:100%; max-width:600px; border-radius: 10px;">
     <br>
   </a>
 </div>
@@ -25,7 +25,7 @@ https://nemobot-neue-experiment.vercel.app/playground/73
 <div align="center">
   <a href="https://youtu.be/8OeYULr9Ep8">
     <b>▶️ Click to Watch Demo!</b>
-    <img src="https://img.youtube.com/vi/8OeYULr9Ep8/maxresdefault.jpg" alt="Watch Nemobot Demo" style="width:100%; max-width:600px; border-radius: 10px;">
+    <img src="https://img.youtube.com/vi/8OeYULr9Ep8/hqdefault.jpg" alt="Watch Debate prep coach Demo" style="width:100%; max-width:600px; border-radius: 10px;">
     <br>
   </a>
 </div>
