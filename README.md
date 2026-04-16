@@ -102,4 +102,5 @@ TextGrad refinement rounds, including:
 
 ## Author
 
-[Your Name] — School of Computer Science and Engineering, NTU
+Dominic Lai — College of Computing and Data Science (CCDS) , NTU
+contact me @ domi0015@e.ntu.edu.sg
