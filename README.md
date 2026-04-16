@@ -9,6 +9,10 @@ self-refinement.
 ## Link
 https://nemobot-neue-experiment.vercel.app/playground/73
 
+## Video Demo
+[![Watch the Demo](https://img.youtube.com/vi/8OeYULr9Ep8/maxresdefault.jpg)](https://youtu.be/8OeYULr9Ep8)
+[![Watch the Demo](https://img.youtube.com/vi/XzthE86HIdE/maxresdefault.jpg)](https://youtu.be/XzthE86HIdE)
+
 ## Overview
 
 Given a debate topic and position, the system produces a complete debate brief
